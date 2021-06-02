@@ -2,5 +2,5 @@
 
 <p align="center">
 <small>View Counter:</small><br>
-<img src="https://profile-counter.glitch.me/tche/count.svg" /> 
+<img src="https://profile-counter.glitch.me/litesam/count.svg" /> 
 </p>
